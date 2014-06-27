@@ -1,0 +1,6 @@
+{
+    "tls": {
+        "key": "file:./server.key",
+        "cert": "file:./server.crt"
+    }
+}
